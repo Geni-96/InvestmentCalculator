@@ -1,0 +1,5 @@
+<div class="center">
+    <app-header />
+    <app-user-input (calculate)="onCalculateInvestmentResults($event)" />
+    <app-investment-results [resultsData]="resultsData" />
+</div>
