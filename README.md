@@ -1,3 +1,7 @@
+
+<img width="925" alt="Investment_Calculator" src="https://github.com/Geni-96/InvestmentCalculator/assets/122692904/b00cbe99-3c7d-4ca5-95b8-43d1449d5b51">
+
+
 # EssentialsPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
